@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/caloric-app/static/css/main.f6f4f716.css",
+    "main.js": "/caloric-app/static/js/main.46c442db.js",
+    "static/media/background1.jpeg": "/caloric-app/static/media/background1.8e1c71dbd2baa43f7368.jpeg",
+    "index.html": "/caloric-app/index.html",
+    "main.f6f4f716.css.map": "/caloric-app/static/css/main.f6f4f716.css.map",
+    "main.46c442db.js.map": "/caloric-app/static/js/main.46c442db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6f4f716.css",
+    "static/js/main.46c442db.js"
+  ]
+}
